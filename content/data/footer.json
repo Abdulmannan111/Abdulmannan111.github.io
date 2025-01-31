@@ -1,0 +1,36 @@
+[
+	{
+		"title": "Pages",
+		"links": [
+			{
+				"name": "Home",
+				"link": "/"
+			},
+			{
+				"name": "Portfolio",
+				"link": "/portfolio"
+			},
+			{
+				"name": "Contact",
+				"link": "/contact"
+			}
+		]
+	},
+	{
+		"title": "Social",
+		"links": [
+			{
+				"name": "Facebook",
+				"link": "https://www.facebook.com/profile.php?id=61561496391100&mibextid=LQQJ4d&mibextid=LQQJ4d",
+				"social_icon": "Facebook",
+				"new_window": true
+			},
+			{
+				"name": "Instagram",
+				"link": "https://www.instagram.com/pixelpulse856/profilecard/?igsh=OWVsaDM0dzhrM3Ft",
+				"social_icon": "Instagram",
+				"new_window": true
+			}
+		]
+	}
+]

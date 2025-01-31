@@ -1,0 +1,25 @@
+{
+	"site_name": "Pixel Pulse",
+	"site_title": "",
+	"description": "Pixel Pulse offers services including social media management, performance marketing, Google Ads and SEO, production services (event coverage), and software solutions (mobile applications and website development).",
+	"author": "",
+	"author_email": "",
+	"images": [],
+	"_array_structures": {
+		"images": {
+			"style": "select",
+			"values": [
+				{
+					"label": "Image",
+					"icon": "image",
+					"value": {
+						"image": "",
+						"description": "",
+						"height": 0,
+						"width": 0
+					}
+				}
+			]
+		}
+	}
+}
