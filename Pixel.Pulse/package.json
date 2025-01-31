@@ -5,12 +5,14 @@
     "dev": "svelte-kit dev",
     "build": "svelte-kit build",
     "preview": "svelte-kit preview",
-    "lint": "eslint --ignore-path .gitignore ."
+    "lint": "eslint --ignore-path .gitignore .",
+    "deploy": "npm run build && npm check -d build -t true"
   },
   "devDependencies": {
     "@googlemaps/js-api-loader": "^1.12.4",
     "@sveltejs/adapter-static": "^1.0.0-next.20",
     "@sveltejs/kit": "next",
+    "check": "^1.0.0",
     "eslint": "^7.32.0",
     "eslint-plugin-svelte3": "^3.2.1",
     "gray-matter": "^4.0.3",

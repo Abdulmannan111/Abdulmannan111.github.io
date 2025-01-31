@@ -7,7 +7,9 @@ const config = {
 	kit: {
 		adapter: adapter(),
 		target: '#svelte',
-
+		paths:{
+			base: process.env.NODE_ENV === 'production'?'/Abdulmannan111.github.io':'',
+		},
 		prerender: {
 			entries: ['*', '/contact-success'],
 		},
