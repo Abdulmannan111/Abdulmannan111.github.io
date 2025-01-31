@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+			<loc>https://example.com/blog/2016-07-28-effective-upselling-techniques</loc>
+			<lastmod>2016-07-28T00:00:00.000Z</lastmod>
+		</url>
+<url>
+			<loc>https://example.com/blog/2016-08-06-definition-of-sales</loc>
+			<lastmod>2016-08-06T00:00:00.000Z</lastmod>
+		</url>
+<url>
+			<loc>https://example.com/blog/2016-08-12-the-history-of-marketing</loc>
+			<lastmod>2016-08-12T00:00:00.000Z</lastmod>
+		</url>
+	<url>
+			<loc>https://example.com/about</loc>
+			<lastmod>2025-01-31T14:32:36.187Z</lastmod>
+		</url>
+<url>
+			<loc>https://example.com/blog</loc>
+			<lastmod>2025-01-31T14:32:36.187Z</lastmod>
+		</url>
+<url>
+			<loc>https://example.com/contact-success</loc>
+			<lastmod>2025-01-31T14:32:36.187Z</lastmod>
+		</url>
+<url>
+			<loc>https://example.com/contact</loc>
+			<lastmod>2025-01-31T14:32:36.187Z</lastmod>
+		</url>
+<url>
+			<loc>https://example.com/</loc>
+			<lastmod>2025-01-31T14:32:36.187Z</lastmod>
+		</url>
+<url>
+			<loc>https://example.com/portfolio</loc>
+			<lastmod>2025-01-31T14:32:36.187Z</lastmod>
+		</url>
+</urlset>

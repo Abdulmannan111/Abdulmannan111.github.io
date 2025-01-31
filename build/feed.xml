@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+	<channel>
+		<title><![CDATA[]]></title>
+		<link>https://example.com/</link>
+		<description><![CDATA[Pixel Pulse offers services including social media management, performance marketing, Google Ads and SEO, production services (event coverage), and software solutions (mobile applications and website development).]]></description>
+		<atom:link href="https://example.com/rss.xml" rel="self" type="application/rss+xml" />
+		<lastBuildDate>Fri, 31 Jan 2025 14:32:36 GMT</lastBuildDate>
+		
+		<item>
+			<title><![CDATA[The history of marketing]]></title>
+			<description><![CDATA[The beginnings of digital marketing technology can be traced back to the 1980's, when computers became sophisticated enough to store huge volumes of customer information. For a brief moment, no one knew what would happen in digital marketing, but by the 90's it all became clear.]]></description>
+			<link>https://example.com/blog/2016-08-12-the-history-of-marketing</link>
+			<guid isPermaLink="true">https://example.com/blog/2016-08-12-the-history-of-marketing</guid>
+			<pubDate>Fri, 12 Aug 2016 00:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Definition of sales]]></title>
+			<description><![CDATA[A person or organization expressing an interest in acquiring the offered item of value is referred to as a potential buyer, prospective customer or prospect. Buying and selling are understood to be two sides of the same &quot;coin&quot; or transaction. Both seller and buyer engage in a process of negotiation to consummate the exchange of values. The exchange, or selling, process has implied rules and identifiable stages.]]></description>
+			<link>https://example.com/blog/2016-08-06-definition-of-sales</link>
+			<guid isPermaLink="true">https://example.com/blog/2016-08-06-definition-of-sales</guid>
+			<pubDate>Sat, 06 Aug 2016 00:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Effective upselling techniques]]></title>
+			<description><![CDATA[Upselling is a sales technique whereby a seller induces the customer to purchase more expensive items, upgrades or other add-ons in an attempt to make a more profitable sale. While it usually involves marketing more profitable services or products, it can be simply exposing the customer to other options that were perhaps not considered.]]></description>
+			<link>https://example.com/blog/2016-07-28-effective-upselling-techniques</link>
+			<guid isPermaLink="true">https://example.com/blog/2016-07-28-effective-upselling-techniques</guid>
+			<pubDate>Thu, 28 Jul 2016 00:00:00 GMT</pubDate>
+		</item>
+	</channel>
+</rss>
